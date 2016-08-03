@@ -30,4 +30,4 @@ Additionally, the `options` parameter has 3 properties:
 **Use the first overload to scroll directly to current jQuery object (`this`)**
 
 ## Conflict avoiding
-scrollTo will automatically rename itself to **scrollToElement** if the property `$.fn.scrollTo` is not available
+**scrollTo** will automatically rename itself to **scrollToElement** if the property `$.fn.scrollTo` is not available
