@@ -2,7 +2,7 @@
 Scrolling to elements made easy
 
 ## Usage
-scrollTo has 5 overloads:
+**scrollTo** has 5 overloads:
 
 - `$().scrollTo()`
 - `$().scrollTo(options)`
