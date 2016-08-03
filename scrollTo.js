@@ -4,7 +4,9 @@
     Author: André Luiz Rabêllo
     Version: 1.0.0
 */
-;(function($) {
+
+; (function($) {
+  'use strict';
   
   // Define function
   function scrollTo (selector, duration) {
